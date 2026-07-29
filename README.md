@@ -21,3 +21,4 @@ The following are required before starting the Entra ID IAM Lab Series:
 ## Lab
 
 - [Entra ID Tenant Setup & Configuration](https://github.com/RyanKennon/Entra-Tenet-Setup/tree/main)
+- [Entra ID Users, Groups, & RBAC](https://github.com/RyanKennon/Entra-ID-Users-Groups-RBAC)
